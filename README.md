@@ -23,7 +23,7 @@ The project is organized into the following folders:
 
 ## Prerequisites
 
-- [Your Development Environment] - Set up your development environment to compile and run embedded C code.
+- Install arm_none_eabi_gcc.exe to execute the provided Makefile for compilation and building.
 
 ## Usage
 
@@ -34,4 +34,10 @@ Describe how to run the project on actual hardware or in the simulation environm
 make
 
 # Run the compiled executable
-./output_project/my_project
+./output_project/Pressure_Detection
+```
+
+
+## Author
+Mohamed Hazem Yahya Mahrous Ali
+
